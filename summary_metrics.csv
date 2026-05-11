@@ -1,0 +1,38 @@
+state,geopolitical_zone,dpt3_coverage,measles_coverage,full_immunization_coverage,u5_mortality_rate,infant_mortality_rate,zero_dose_estimate,performance_cluster
+Zamfara,North West,14.6,17.2,10.8,244.7,141.1,61780.0,Low Performance
+Kebbi,North West,14.9,16.1,10.6,220.4,122.7,59241.0,Low Performance
+Yobe,North East,17.7,20.4,13.0,211.3,122.9,13040.0,Low Performance
+Sokoto,North West,18.6,14.4,10.5,239.2,144.3,61048.0,Low Performance
+Katsina,North West,18.8,23.7,12.8,215.2,122.3,49060.0,Low Performance
+Jigawa,North West,19.5,21.8,13.9,206.2,133.5,27317.0,Low Performance
+Bauchi,North East,23.5,27.7,18.8,182.9,101.1,40604.0,Low Performance
+Borno,North East,25.1,29.5,20.7,203.7,122.0,24961.0,Low Performance
+Taraba,North East,26.7,28.0,18.7,174.8,97.7,33388.0,Low Performance
+Kano,North West,30.1,30.5,21.1,199.6,127.1,47722.0,Low Performance
+Adamawa,North East,31.5,33.0,20.3,159.2,92.1,7431.0,Low Performance
+Gombe,North East,34.5,36.3,23.9,166.5,102.2,32483.0,Low Performance
+Niger,North Central,39.1,40.5,27.0,175.1,102.1,6105.0,Low Performance
+Kaduna,North West,39.8,39.8,32.2,149.7,88.8,16343.0,Medium Performance
+Nasarawa,North Central,46.4,50.9,40.2,101.2,61.3,4503.0,Medium Performance
+Kogi,North Central,47.8,48.9,38.1,91.0,53.2,43405.0,Medium Performance
+Benue,North Central,51.8,56.1,41.9,99.3,61.4,9889.0,Medium Performance
+Kwara,North Central,53.9,57.3,41.5,83.3,45.9,12256.0,Medium Performance
+Plateau,North Central,57.7,60.6,48.8,92.6,52.0,15900.0,Medium Performance
+Bayelsa,South South,62.6,63.5,50.5,74.7,43.7,6356.0,Medium Performance
+Ebonyi,South East,63.4,61.9,45.6,90.0,55.8,28910.0,Medium Performance
+Cross River,South South,66.4,67.7,55.5,74.6,43.7,28177.0,High Performance
+FCT Abuja,North Central,67.0,69.5,53.4,79.3,45.4,7122.0,High Performance
+Delta,South South,71.2,71.8,56.6,71.6,40.8,5935.0,High Performance
+Abia,South East,71.7,66.5,54.9,78.4,43.7,23770.0,High Performance
+Rivers,South South,72.4,74.5,56.1,63.7,37.6,8832.0,High Performance
+Edo,South South,73.1,75.1,57.6,64.8,39.8,10607.0,High Performance
+Akwa Ibom,South South,73.4,78.2,59.5,70.7,41.2,17425.0,High Performance
+Oyo,South West,73.9,77.1,56.8,68.3,39.7,10825.0,High Performance
+Ogun,South West,76.4,82.6,64.6,59.2,37.6,12062.0,High Performance
+Anambra,South East,76.8,79.7,66.9,58.8,34.0,12398.0,High Performance
+Ondo,South West,76.8,78.7,62.5,66.3,39.4,12857.0,High Performance
+Osun,South West,77.4,82.1,62.7,60.5,33.5,7099.0,High Performance
+Imo,South East,78.2,81.0,63.2,78.6,44.2,3839.0,High Performance
+Enugu,South East,81.6,81.2,68.7,63.5,36.1,9525.0,High Performance
+Lagos,South West,82.9,83.8,68.2,50.1,27.7,14093.0,High Performance
+Ekiti,South West,85.9,87.6,74.3,53.2,30.7,7127.0,High Performance
